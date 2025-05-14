@@ -136,9 +136,7 @@ They simply return mock responses for testing access control logic.
 
 ## 👥 Team Members
 
-- [Your Name Here]
-- [Teammate 1]
-- [Teammate 2]
+- Anirudh Ramakrishnan
 
 ---
 
